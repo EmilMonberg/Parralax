@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+margin: 0 auto;
+background: #f9f9f9;
+font-size: 1.4vw;
+}
+
+h3 {
+    padding-left: 12%;
+    padding-right: 12%;
+    font-size: 2.2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 2%;
+}
+
+p {
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.space {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.baggrund {
+    background: url("pic1.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+.baggrund2 {
+    background: url("pic2.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.baggrund3 {
+    background: url("pic3.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
